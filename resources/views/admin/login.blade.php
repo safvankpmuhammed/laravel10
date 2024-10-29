@@ -46,7 +46,7 @@
                 <button  type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block mb-4">Sign in</button>
               
                 <!-- Register buttons -->
-                <div class="text-center">
+                {{-- <div class="text-center">
                   <p>Not a member? <a href="#!">Register</a></p>
                   <p>or sign up with:</p>
                   <button  type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-link btn-floating mx-1">
@@ -64,7 +64,7 @@
                   <button  type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-link btn-floating mx-1">
                     <i class="fab fa-github"></i>
                   </button>
-                </div>
+                </div> --}}
               </form>
         </div>
     </div>
